@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "R5GQvn5Kv2HV9otvGs6VUKbxrwdHYFFhKYDcPjkNtns=",
+  "Source": "NetCoreRedis",
+  "BasePath": "_content/NetCoreRedis",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

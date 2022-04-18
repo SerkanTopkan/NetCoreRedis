@@ -8,4 +8,7 @@ Docker üzerinde Redis ayağa kaldırıyor ve Api üzerinde CRUD işlemler gerç
 
 Terminal ekranı üzerinden "docker pull redis" komutu ile redis image dosyasını pcmize çekiyoruz.
 
-https://localhost:7079/swagger/index.html üzerinden apimizi test edebiliriz.
+Ardından yine terminal ekranı üzerinde "docker run --name redis -d -p 6379:6379 redis" komutunu girerek mongodb containerımızı ayağa kaldırıyoruz.
+
+
+Ardından uygulamayı ayağa kaldırıp, https://localhost:7079/swagger/index.html üzerinden apimizi test edebiliriz.
